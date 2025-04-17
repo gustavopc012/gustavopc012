@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! <img src="https://media.giphy.com/media/kwHJyJkrAoAIE/giphy.gif?cid=ecf05e47qigsgluf60vqxr1vuezc5kk6tkks02l55ac3fv2f&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="width:50px;height:40px"/> </h1>
 
-<p>👾<em>Meu nome é Gustavo, sou estudante de <b>Ciencia da Computação</b> pela Universidade de Alagoas!</em></p>
+<p>👾<em>Meu nome é Gustavo, sou estudante de <b>Ciencia da Computação</b> pela Universidade Federal de Alagoas!</em></p>
 <p>👀<em> Atualmente cursando o quarto período! Sou um entusiasta da área de dados e back-end.</em></p>
 <p>😶‍🌫️<em>Durante meu tempo livre, gosto de jogar, conversar e assistir séries!</em></p>
 
