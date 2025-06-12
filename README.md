@@ -16,7 +16,12 @@
 
  <h3>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZ3poYmo1aWs5MWZqMzZjZmNicGI2MDdvZzNpYzM4YW5ka2FkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" style="width:20px;height:0px"/>Vamos nos conectar?
+ 
 </h3>
+<div>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+ </div>
  <h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZ3poYmo1aWs5MWZqMzZjZmNicGI2MDdvZzNpYzM4YW5ka2FkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" style="width:20px;height:0px"/>Estatísticas:</h3>
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gustavopc012&show_icons=true&theme=graywhite&locale=pt-br&hide_border=false" style="margin-right: 20px;"/>
