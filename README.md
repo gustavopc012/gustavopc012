@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there! <img src="https://media.giphy.com/media/kwHJyJkrAoAIE/giphy.gif?cid=ecf05e47qigsgluf60vqxr1vuezc5kk6tkks02l55ac3fv2f&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="width:50px;height:40px"/> </h1>
-<div></div>
+<div>
+</div>
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0D74E7&width=435&lines=Hi!+My+name's+Gustavo...;But+you+can+call+me+Gus!;I'm+a+fan+of+data+Science...;And+Back-end%2C+of+course!)](https://git.io/typing-svg)
