@@ -7,7 +7,7 @@
 
 </div>
 <p>👾<em>Meu nome é Gustavo, sou estudante de <b>Ciencia da Computação</b> pela Universidade Federal de Alagoas!</em></p>
-<p>👀<em> Atualmente cursando o quarto período! Sou um entusiasta da área de dados e back-end.</em></p>
+<p>👀<em> Atualmente cursando o quinto período! Sou um entusiasta da área de dados e back-end.</em></p>
 <p>😶‍🌫️<em>Durante meu tempo livre, gosto de jogar, conversar e assistir séries!</em></p>
 
 <h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZ3poYmo1aWs5MWZqMzZjZmNicGI2MDdvZzNpYzM4YW5ka2FkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" style="width:20px;height:0px"/>Tech stack:</h3>
