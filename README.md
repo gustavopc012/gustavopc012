@@ -22,10 +22,6 @@
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
  </div>
- <h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZ3poYmo1aWs5MWZqMzZjZmNicGI2MDdvZzNpYzM4YW5ka2FkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" style="width:20px;height:0px"/>Estatísticas:</h3>
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gustavopc012&show_icons=true&theme=graywhite&locale=pt-br&hide_border=false" style="margin-right: 20px;"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopc012&layout=compact&theme=graywhite&hide_border=false&langs_count=4"/>
-</div>
+ <h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZ3poYmo1aWs5MWZqMzZjZmNicGI2MDdvZzNpYzM4YW5ka2FkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" style="width:20px;height:0px"
 
 
