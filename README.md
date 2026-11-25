@@ -12,7 +12,7 @@
 
 <h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZ3poYmo1aWs5MWZqMzZjZmNicGI2MDdvZzNpYzM4YW5ka2FkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" style="width:20px;height:0px"/>Tech stack:</h3>
 
- <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> <img src ="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> <img src ="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+ <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> <img src ="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> <img src ="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 
  <h3>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZ3poYmo1aWs5MWZqMzZjZmNicGI2MDdvZzNpYzM4YW5ka2FkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" style="width:20px;height:0px"/>Vamos nos conectar?
