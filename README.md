@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! <img src="https://media.giphy.com/media/kwHJyJkrAoAIE/giphy.gif?cid=ecf05e47qigsgluf60vqxr1vuezc5kk6tkks02l55ac3fv2f&ep=v1_stickers_related&rid=giphy.gif&ct=s" style="width:50px;height:40px"/> </h1>
+<h1 align="center"> Hi there! <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpydGtmZ3AyaWF5cHNzZDJnMjkxMnZhY2Q0dTQ5a282eWdhaG5qeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ssm0SSwVbICGc/giphy.gif]" style="width:50px;height:40px"/> </h1>
 <div>
 </div>
 <div align="center">
