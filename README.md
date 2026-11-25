@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpydGtmZ3AyaWF5cHNzZDJnMjkxMnZhY2Q0dTQ5a282eWdhaG5qeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ssm0SSwVbICGc/giphy.gif" style="width:50px;height:40px"/> </h1>
+<h1 align="center"> Hi there! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXIydTRmdW9vM210bGZjb3RraGlxa3lpMzYzeGlzejRwdGhla2l1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9fngGUe3uNfZo7R1mC/giphy.gif" style="width:50px;height:40px"/> </h1>
 <div>
 </div>
 <div align="center">
